@@ -5,9 +5,13 @@
 
 ## What I'm Doing
 
-- 🔭 Working on Websites/Roblox Development
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: thinkright20 (Discord)
+- 🔭 I’m currently working on [NYC Sales – Real Estate Sales Dashboard](https://github.com/MarcusRTM/NYC-Sales-Real-Estate-Sales-Dashboard)
+
+- 🌱 Learning **Machine Learning and AI**
+
+- 💬 Ask me about **Python, Data Visualization, AI**
+
+- 📫 How to reach me **marcus.pablo@Outlook.com**
 
 ## Languages and Tools
 
