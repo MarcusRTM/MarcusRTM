@@ -1,60 +1,49 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="30000px" align="right">
+## Introduction
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Marcus;A+data+science+and+IA+student" alt="Typing SVG" /></a>
+</p>
 
+<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Thinkright20</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
-## Sobre mim: 
+<p align="center">
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+ </p>
+ 
+## What I'm Doing
 
-## Minhas Skills
+- 🔭 Working on Websites/Roblox Development
+- 🌱 Learning Node.js & more
+- 📫 How to contact me: thinkright20 (Discord)
 
-**Aplicações e dados**
+## Languages and Tools
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-**Utilidades**
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+## Activity On GitHub
 
-**DevOps**
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/MarcusRTM" title="Perfil do Marcus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusRTM&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 <!--
 **MarcusRTM/MarcusRTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
