@@ -16,7 +16,7 @@
 ## Languages and Tools
 
 <p align="left"><a href="https://github.com/MarcusRTM"><img src="https://skillicons.dev/icons?i=python,c,java,css,html,js"> </a> <br>
-  <a href="https://github.com/MarcusRTM"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,mysql,postgresql"> </a>
+  <a href="https://github.com/MarcusRTM"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,docker,mysql,postgresql"> </a>
 </p>
 
 
