@@ -27,11 +27,24 @@
 
 ## Activity On GitHub
 
+
+
+  
 <p align="center">
-  <a href="https://github.com/MarcusRTM">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusRTM&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=MarcusRTM&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+
+---
+
+
+
+
+<p align="center">
+
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRTM&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&card_width=600">
+</p>
+ 
 
 #
 
