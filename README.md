@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **marcus.pablo@Outlook.com**
 
+   LinkedIn: https://www.linkedin.com/in/marcus-pablo-r-135461136/
+
 ## Languages and Tools
 
 <p align="left"><a href="https://github.com/MarcusRTM"><img src="https://skillicons.dev/icons?i=python,c,java,css,html,js"> </a> <br>
